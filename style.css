@@ -24,7 +24,7 @@ body{
 }
 
 header{
-    background: radial-gradient(circle, rgba(255,255,255,0.1) 0%,
+    background: radial-gradient(circle, rgba(82, 82, 82, 0.4) 0%,
     rgba(0,0,0,0.9)) 100%,
     url(navback.png);
     background-size: cover;
@@ -79,7 +79,7 @@ nav{
     font-size: 3rem;
     line-height: 45px;
     text-align: center;
-    color: var(--headtext-color);
+    color: var(--text-color);
 }
 
 .hero-sec p{
